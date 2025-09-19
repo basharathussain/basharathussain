@@ -41,7 +41,7 @@ Azure, AWS, Docker, CI/CD. I make sure ML models don’t just train well but run
 ## 📄 My Publications
 - Article (J04) A. A. Khan, B. Hussain, M. Islam, M. M. A. Dabel and A. K. Bashir, “Optimizing Content Cache with Vehicular Edge Computing: A Deep Federated Learning based Novel Predictive Study,” IEEE Transactions on Consumer Electronics, doi: 10.1109/TCE.2025.3571029
 Impact Factor: 10.9 (2025 JCR)
-- Article (J03) B. Hussain and M. K. Afzal, “Optimizing Urban Traffic Incident Prediction with Vertical Federated Learning: A Feature Selection based Approach”, IEEE Transactions on Network Science and Engineering, vol. 12, no. 1, pp. 145-155, Jan.-Feb. 2025, doi: 10.1109/TNSE.2024.3487268
+- Article (J03) B. Hussain and M. K. Afzal, “Optimizing Urban Traffic Incident Prediction with Vertical Federated Learning: A Feature Selection-based Approach”, IEEE Transactions on Network Science and Engineering, vol. 12, no. 1, pp. 145-155, Jan.-Feb. 2025, doi: 10.1109/TNSE.2024.3487268
 Impact Factor: 6.7 (2024 JCR).
 - Article (J02) B. Hussain, M. K. Afzal, S. Anjum, I. Rao and B-S. Kim, “A Novel Graph Convolutional Gated Recurrent Unit Framework for Network-Based Traffic Prediction”, IEEE Access, vol. 11, pp. 130102-130118, 2023, doi: 10.1109/ACCESS.2023.3333938
 Impact Factor: 3.6 (2023 JCR).
@@ -52,6 +52,7 @@ Impact Factor: 3.4 (2021 JCR).
 ## 🌐 Let's Connect
 - 💼 LinkedIn: [linkedin.com/in/basharathussain](https://www.linkedin.com/in/basharathussain)
 - 💻 GitHub: [github.com/basharathussain](https://github.com/basharathussain)
+- 💻 Website: [basharathussain.github.io](https://basharathussain.github.io/)
 
 ---
 
