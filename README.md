@@ -49,10 +49,11 @@ Impact Factor: 3.6 (2023 JCR).
 Impact Factor: 3.4 (2021 JCR).
 
 
-## 🌐 Let's Connect
+## ⚡ Let's Connect
+- 🌐 Website: [basharathussain.github.io](https://basharathussain.github.io/)
 - 💼 LinkedIn: [linkedin.com/in/basharathussain](https://www.linkedin.com/in/basharathussain)
 - 💻 GitHub: [github.com/basharathussain](https://github.com/basharathussain)
-- 💻 Website: [basharathussain.github.io](https://basharathussain.github.io/)
+
 
 ---
 
